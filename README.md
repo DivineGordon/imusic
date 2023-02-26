@@ -36,8 +36,8 @@ Registered users should be able to:
 
 
 ### Screenshot
-![amalited](https://github.com/AmaliTech-Training-Academy/imusic-justice-gordon/blob/main/Backend/Utils/images/desktop.png)
-![amalited](https://github.com/AmaliTech-Training-Academy/imusic-justice-gordon/blob/main/Backend/Utils/images/player.png)
+![amalited](https://github.com/AmaliTech-Training-Academy/imusic-justice-gordon/blob/main/frontend/utils/images/desktop.png)
+![amalited](https://github.com/AmaliTech-Training-Academy/imusic-justice-gordon/blob/main/frontend/utils/images/player.png)
 
 
 
@@ -63,11 +63,7 @@ Registered users should be able to:
 Future work on this project will seek to enhance the visuals, improve the interactivity and modifications to meet future customer demands.
 
 
-## Authors
-
-- Github -- [Justice Nana Ellis](https://github.com/justice-ellis)
-- Email --- [justice.ellis@amalitech.org](justice.ellis@amalitech.org)
-
+## Author
 - Github -- [Gordon Peter Amamoo](https://github.com/RealGordon)
 - Email --- [gordam.edoc@gmail.com](gordam.edoc@gmail.com)
 
