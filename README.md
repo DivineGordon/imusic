@@ -46,7 +46,7 @@ Registered users should be able to:
 - Deployed Link: [https://amalitech-node-project.el.r.appspot.com/static/imusic/index.html](https://amalitech-node-project.el.r.appspot.com/static/imusic/index.html)
 
 
-## Our process
+
 
 ### Built with
 
