@@ -13,7 +13,7 @@ iMusic Capstone Project from [Amalitech Training Academy](https://amalitech.org/
 - [Our process](#our-process)
   - [Built with](#built-with)
   - [Future works](#future-works)
-- [Authors](#authors)
+- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 
@@ -53,8 +53,6 @@ Registered users should be able to:
 
 - Typescript
 - React,Redux,React Router
-- NodeJs/Express
-- Postgres Database
 - Google cloud firestore
 
 
