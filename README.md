@@ -43,9 +43,8 @@ Registered users should be able to:
 
 ### Links
 
-- Github Repository Link: [https://github.com/AmaliTech-Training-Academy/imusic-justice-gordon.git](https://github.com/AmaliTech-Training-Academy/imusic-justice-gordon.git)
 - Deployed Link: [https://amalitech-node-project.el.r.appspot.com/static/imusic/index.html](https://amalitech-node-project.el.r.appspot.com/static/imusic/index.html)
-- Documentation:[https://documenter.getpostman.com/view/20700995/2s847PLq5r](https://documenter.getpostman.com/view/20700995/2s847PLq5r)
+
 
 ## Our process
 
