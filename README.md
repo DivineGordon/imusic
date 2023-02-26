@@ -55,10 +55,6 @@ Registered users should be able to:
 - Google cloud firestore
 
 
-### Future works
-
-Future work on this project will seek to enhance the visuals, improve the interactivity and modifications to meet future customer demands.
-
 
 ## Author
 - Github -- [Gordon Peter Amamoo](https://github.com/RealGordon)
