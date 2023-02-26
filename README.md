@@ -66,8 +66,3 @@ Future work on this project will seek to enhance the visuals, improve the intera
 - Email --- [gordam.edoc@gmail.com](gordam.edoc@gmail.com)
 
 
-	
-## Acknowledgments
-
-Thanks be to God Almighty for the gift of Life. Our sincere appreciation to the entire Amalitech Training Team especially Mr. Salami Suleiman for this timely enlightening project. We appreciate our abled colleagues who supported us in any way during the project. Thank you.
-
