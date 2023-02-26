@@ -36,8 +36,8 @@ Registered users should be able to:
 
 
 ### Screenshot
-![amalited](https://github.com/AmaliTech-Training-Academy/imusic-justice-gordon/blob/main/frontend/utils/images/desktop.png)
-![amalited](https://github.com/AmaliTech-Training-Academy/imusic-justice-gordon/blob/main/frontend/utils/images/player.png)
+![amalited](frontend/utils/images/desktop.png)
+![amalited](frontend/utils/images/player.png)
 
 
 
